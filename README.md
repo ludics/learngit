@@ -13,3 +13,5 @@ First add.
 I am in the branch of master and bugfix1.
 
 Add new funcs.
+
+Issue-101.
