@@ -8,3 +8,4 @@ Git is very interesting.
 
 Git has stage or index.
 
+First add.
