@@ -11,3 +11,5 @@ Git has stage or index.
 First add.
 
 I am in the branch of master and bugfix1.
+
+Add new funcs.
