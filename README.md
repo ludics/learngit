@@ -9,3 +9,5 @@ Git is very interesting.
 Git has stage or index.
 
 First add.
+
+I am in the branch of master.
